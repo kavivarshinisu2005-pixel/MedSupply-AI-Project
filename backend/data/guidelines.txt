@@ -1,0 +1,55 @@
+MEDSUPPLY AI - PROCUREMENT GUIDELINES
+
+1.  INVENTORY MANAGEMENT
+
+-   Maintain accurate records of medical equipment and essential
+    supplies.
+-   Define a minimum stock level for every critical item.
+-   Review inventory regularly and identify items below the minimum
+    stock level.
+-   Estimate days of stock remaining using current stock and average
+    daily usage.
+-   Prioritize urgent shortages that may affect hospital operations.
+
+2.  SUPPLIER EVALUATION
+
+-   Compare quotations from multiple suppliers whenever possible.
+-   Consider unit price, delivery time, product quality, reliability,
+    and warranty.
+-   Do not select a supplier based on price alone.
+-   Verify supplier credentials and product certifications before
+    procurement.
+
+3.  PURCHASE PLANNING
+
+-   Calculate suggested purchase quantity based on the stock shortage
+    and expected demand.
+-   Check product specifications and compatibility before placing an
+    order.
+-   Confirm availability and delivery timelines with the selected
+    supplier.
+-   Keep a record of quotations and procurement decisions.
+
+4.  QUALITY AND SAFETY CHECKS
+
+-   Check expiry dates for applicable medical products.
+-   Inspect products for damage and verify that delivered quantities
+    match the purchase order.
+-   Confirm required certifications, warranty, and quality
+    documentation.
+-   Follow the hospital’s approved storage and handling procedures.
+
+5.  APPROVAL AND AUDIT
+
+-   All purchase recommendations must be reviewed by an authorized
+    hospital procurement officer.
+-   Do not automatically place purchase orders based only on an AI
+    recommendation.
+-   Record approvals, invoices, supplier details, and procurement
+    decisions for audit purposes.
+-   Follow applicable hospital policies and local procurement
+    regulations.
+
+IMPORTANT These guidelines are sample educational content for the
+MedSupply AI project. They are not a substitute for official hospital
+policies, clinical advice, or applicable regulations.
